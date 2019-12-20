@@ -1,5 +1,9 @@
 ## Multiplication table
 
-Command application in node.js
+Command application in node.js.
 
-Please execute: npm install
+Please execute:
+
+...
+npm install
+...
